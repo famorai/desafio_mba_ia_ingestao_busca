@@ -419,9 +419,11 @@ A arquitetura híbrida utilizada permite:
 
 # 👨‍💻 Autor
 
-Fábio Morais
+<h4 align="center">
+    Feito com 💜 por <a href="https://www.linkedin.com/in/f%C3%A1bio-morais-b34a2729/" target="_blank">Fábio Morais</a>
+</h4>
 Arquiteto de Sistemas / Engenharia de IA
 
-MBA FullCycle Engenharia de IA - Desafio 1
+MBA FullCycle Engenharia de IA - Desafio 1 - 
 Projeto desenvolvido como laboratório de **Engenharia de IA aplicado a RAG e busca semântica**.
 
